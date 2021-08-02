@@ -1,4 +1,4 @@
-# code
+# Exploratory Data Analysis - ML predictions with python
 codes for data science projects
 in this repository there are - 
 1. Chess games analysis - EDA and predictions - Random Forest Classifier.
